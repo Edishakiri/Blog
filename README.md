@@ -18,6 +18,7 @@ then we will run our backend.
 When we have it behind us,
 exit from Api to the main folder and also enter "npm start" in the terminal,
 thanks to which we will be able to move freely on the finished page.
+The blog is also linked to MongoDB.
 
 
 
