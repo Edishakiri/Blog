@@ -13,12 +13,13 @@ of course after downloading the files to your disk.
 
 
 
-To run the project, go to the "api" folder and enter "npm start" in the terminal, of course we do everything in VS Code,
+Everything we do in VS Code. To run the project, go to the "api" folder and enter "npm start" in the terminal,
 then we will run our backend.
 When we have it behind us,
 exit from Api to the main folder and also enter "npm start" in the terminal,
 thanks to which we will be able to move freely on the finished page.
 The blog is also linked to MongoDB.
+That's all!
 
 
 
